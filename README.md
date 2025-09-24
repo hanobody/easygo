@@ -13,15 +13,15 @@ Trading strategy for the [Freqtrade](https://www.freqtrade.io) crypto bot. For b
 
 ## General Recommendations
 
-For optimal performance, suggested to use between 4 and 6 open trades, with unlimited stake.
+为了获得最佳性能，建议使用 4 到 6 个同时持仓，且无限制资金。
 
-A pairlist with 40 to 80 pairs. Volume pairlist works well.
+建议使用包含 40 到 80 个交易对的 pairlist。Volume pairlist 效果很好。
 
-Prefer stable coin (USDT, USDC etc) pairs, instead of BTC or ETH pairs.
+优先选择稳定币（USDT、USDC 等）交易对，而不是 BTC 或 ETH 交易对。
 
-Highly recommended to blacklist leveraged tokens (*BULL, *BEAR, *UP, *DOWN etc).
+强烈建议拉黑杠杆代币（如 *BULL、*BEAR、*UP、*DOWN 等）。
 
-Ensure that you don't override any variables in you config.json. Especially the timeframe (must be 5m).
+确保不要覆盖 config.json 中的任何变量。尤其要注意。 时间周期必须设置为 5m。
 
 - `use_exit_signal` must set to true (or not set at all).
 - `exit_profit_only` must set to false (or not set at all).
