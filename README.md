@@ -1,15 +1,10 @@
-# NostalgiaForInfinity
+# 量化机器人中文版
 
 [![GitHub Pages](https://img.shields.io/badge/docs-online-blue)](https://iterativv.github.io/NostalgiaForInfinity/)
 
-## 📖 Documentation
+## 介绍
 
-Full documentation is available online at:  
-👉 [https://iterativv.github.io/NostalgiaForInfinity/](https://iterativv.github.io/NostalgiaForInfinity/)
-
-## Introduction
-
-Trading strategy for the [Freqtrade](https://www.freqtrade.io) crypto bot. For backtesting results, check out the comments in the individual [commit](https://github.com/iterativv/NostalgiaForInfinity/commits/main) page.
+引擎 [Freqtrade](https://www.freqtrade.io) crypto bot.回滚测试, check out the comments in the individual [commit](https://github.com/iterativv/NostalgiaForInfinity/commits/main) page.
 
 ## General Recommendations
 
